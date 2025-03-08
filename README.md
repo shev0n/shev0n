@@ -12,10 +12,6 @@ Welcome to my GitHub! I'm an aspiring **Data Scientist** 🧠, currently diving 
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
----
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
