@@ -1,6 +1,6 @@
 # Hi there, I'm Shevon Fernando! 👋
 
-Welcome to my GitHub! I'm an aspiring **Data Scientist** 🧠, currently diving deep into **AI & Data Science** while balancing work in the **spare part trading industry**. 
+Welcome to my GitHub! I'm an aspiring **Data Scientist** 🧠, currently diving deep into **AI & Data Science** while balancing work in the **Spare Part Trading Industry**. 
 
 ---
 
